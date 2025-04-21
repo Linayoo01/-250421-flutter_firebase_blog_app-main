@@ -35,15 +35,7 @@ lib/
  
  
 
----
 
-## 📸 앱 예시 화면
-
-| HomePage 화면 | DetailPage 화면 | WritePage 화면 |
-|---------------|-----------------|----------------|
-| ![image](https://github.com/user-attachments/assets/a487f408-d7db-494a-8e45-b554982e95db)| ![image](https://github.com/user-attachments/assets/5d2ae152-02dd-4689-be98-00d3169650b1) | ![image](https://github.com/user-attachments/assets/a700b97c-0689-4653-8ddc-76856296ae2c) |
-
-> 💡아래 설명을 확인해주세요.
 
 ---
 
@@ -138,7 +130,9 @@ flutter pub get flutter run
 | ![image](https://github.com/user-attachments/assets/a487f408-d7db-494a-8e45-b554982e95db)| ![image](https://github.com/user-attachments/assets/5d2ae152-02dd-4689-be98-00d3169650b1) | ![image](https://github.com/user-attachments/assets/a700b97c-0689-4653-8ddc-76856296ae2c) |
 
 > 💡아래 설명을 확인해주세요.
-> 📌 Firebase 연동은 이후 Part2에서 진행됩니다.  
+> 
+> 📌 Firebase 연동은 이후 Part2에서 진행됩니다.
+> 
 > 현재는 UI 구현 및 구조 설계에 초점을 두고 있습니다.
  ---
 
